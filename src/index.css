@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+/* For mobile view */
+@media (max-width: 768px) {
+    .player-bar-expanded {
+      height: 100vh;  /* Full-screen when expanded */
+      transform: translateY(0);  /* Move it up to fill the screen */
+      transition: all 0.3s ease-in-out;  /* Smooth transition */
+    }
+  
+    .player-bar-collapsed {
+      height: auto;
+      transform: translateY(0);
+    }
+  }
+  
