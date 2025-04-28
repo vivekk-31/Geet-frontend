@@ -34,11 +34,8 @@ VITE_API_URL=<your-backend-url>
 ## Setup Instructions
 ```bash
 git clone https://github.com/vivekk-31/Geet-frontend.git
-
 cd geet-frontend
-
 npm install
-
 npm run dev
 ```
 
