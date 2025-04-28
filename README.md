@@ -44,3 +44,6 @@ npm install
 ```bash
 npm run dev
 ```
+
+I encourage all developers to fork, star, and add features they like!
+Feel free to open PRs and suggest improvements.
