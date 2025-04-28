@@ -33,7 +33,7 @@ VITE_API_URL=<your-backend-url>
 
 ## Setup Instructions
 ```bash
-git clone https://github.com/your-username/geet-frontend.git
+git clone https://github.com/vivekk-31/Geet-frontend.git
 ```
 ```bash
 cd geet-frontend
